@@ -1,1 +1,0 @@
-/home/dbm/Pinocchio-system/target/sbpf-solana-solana/release/blueshift_vault.so: /home/dbm/Pinocchio-system/src/instructions/deposit.rs /home/dbm/Pinocchio-system/src/instructions/mod.rs /home/dbm/Pinocchio-system/src/instructions/withdraw.rs /home/dbm/Pinocchio-system/src/lib.rs
