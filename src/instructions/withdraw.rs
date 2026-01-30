@@ -2,11 +2,10 @@ use pinocchio::{
     account_info::AccountInfo,
     program_error::ProgramError,
     pubkey::find_program_address,
-    sysvars::Sysvar,
+    instruction::{Seed, Signer},
     ProgramResult,
 };
 use pinocchio_system::instructions::Transfer;
-use pinocchio::signer::{Seed, Signer};
 
 pub struct WithdrawAccounts<'a> {
     pub owner: &'a AccountInfo,

@@ -7,5 +7,5 @@ edition = "2021"
 crate-type = ["lib", "cdylib"]
 
 [dependencies]
-pinocchio = "0.8"
+pinocchio = "0.9"
 pinocchio-system = "0.4"
